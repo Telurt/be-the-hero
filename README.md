@@ -34,10 +34,6 @@ Rode `npm start` nas pastas backend e frontend para utilizar a versão web. Aces
     <img alt="" title="" src="imgs/print4.png">
     <img alt="" title="" src="imgs/print5.png">
     <img alt="" title="" src="imgs/print6.png">
-    <img alt="" title="" src="imgs/print7.png">
-    <img alt="" title="" src="imgs/print8.png">
-    <img alt="" title="" src="imgs/print9.png">
-    <img alt="" title="" src="imgs/print-insomnia.png">
 </p>
 
 ---
